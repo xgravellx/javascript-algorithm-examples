@@ -1,6 +1,9 @@
 # javascript-algorithm-examples
 In this repo, you can find examples to improve your Javascript Algorithm knowledge.
 
+Open terminal and use the code below.
+`nodemon .\ex1.js`
+
 **1. Beginner**
    -  **Ex-1:** Finding the sum of two numbers
    -  **Ex-2:** Finding the sum of the square of two numbers
