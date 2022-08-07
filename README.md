@@ -8,4 +8,8 @@ In this repo, you can find examples to improve your Javascript Algorithm knowled
    -  **Ex-4:** Program that calculates the age of the person whose date of birth is entered
    -  **Ex-5:** Program to print numbers backwards
    -  **Ex-6:** Calculate the factorial of a number
+   -  **Ex-7:** First Reverse: Have the function firstReverse(str) take the str parameter being passed and return the string in reversed order.
+   -  **Ex-8:** First Factorial: Have the function firstFactorial(num) take the num parameter being passed and return the factorial of it.
+   
+
 
