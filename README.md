@@ -10,6 +10,6 @@ In this repo, you can find examples to improve your Javascript Algorithm knowled
    -  **Ex-6:** Calculate the factorial of a number
    -  **Ex-7:** First Reverse: Have the function firstReverse(str) take the str parameter being passed and return the string in reversed order.
    -  **Ex-8:** First Factorial: Have the function firstFactorial(num) take the num parameter being passed and return the factorial of it.
-   
+   -  **Ex-9:** Have the function longestWord(sen) take the sen parameter being passed and return the largest word in the string.
 
 
