@@ -17,3 +17,4 @@ Open terminal and use the code below.
    -  **Ex-10** Letter Changes: Have the function letterChanges(str) take the str parameter being passed and modify it using the following algorithm. 
    -  **Ex-11** Simple Adding: Have the function simpleAdding(num) add up all the numbers from 1 to num. 
    -  **Ex-12** Letter Capitalize: Have the function letterCapitalize(str) take the str parameter being passed and capitalize the first letter of each word.
+   -  **Ex-13** Simple Adding: Have the function simpleAdding(num) add up all the numbers from 1 to num.
